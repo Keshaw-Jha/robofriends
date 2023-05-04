@@ -1,0 +1,8 @@
+.scroll::-webkit-scrollbar {
+    display: none;
+  }
+.scroll{
+    overflow-y: scroll;
+    border: 5px solid black; 
+    height: 800px;
+}
